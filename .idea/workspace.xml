@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe79b7a-696e-4a56-9c90-b0b2b996c230" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1huOi2Ez5IUOxAAxTh9IM47uQFA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rahif\OneDrive - King's College London\My papers\New RL paper\final_code\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SGLD">
+    <configuration name="DSGLD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="final_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks/DSGLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FedAvg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="final_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks/FedAvg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SGLD (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="final_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi Label Classification with Bayesian Neural Networks/SGLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SGLD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="final_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bayesian Logistic Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bayesian Logistic Regression/SGLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_pickled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="final_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/create_pickled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SGLD" />
+        <item itemvalue="Python.SGLD (1)" />
+        <item itemvalue="Python.FedAvg" />
+        <item itemvalue="Python.create_pickled" />
+        <item itemvalue="Python.DSGLD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\rahif\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe79b7a-696e-4a56-9c90-b0b2b996c230" name="Default Changelist" comment="" />
+      <created>1600857633040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600857633040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSVGD final code" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSVGD final code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="916" y="54" key="FileChooserDialogImpl" timestamp="1601031504326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="916" y="54" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601031504326" />
+    <state x="603" y="328" width="354" height="168" key="Github.CreateGistDialog" timestamp="1601027306463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="328" width="354" height="168" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1601027306463" />
+    <state x="562" y="204" width="470" height="306" key="Github.ShareDialog" timestamp="1601027266527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="204" width="470" height="306" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1601027266527" />
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom" timestamp="1601031734515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
+    <state width="1515" height="173" key="GridCell.Tab.0.center" timestamp="1601031734515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
+    <state width="1515" height="173" key="GridCell.Tab.0.left" timestamp="1601031734515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
+    <state width="1515" height="173" key="GridCell.Tab.0.right" timestamp="1601031734515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
+    <state x="242" y="109" key="SettingsEditor" timestamp="1601031497263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601031497263" />
+    <state x="569" y="101" key="svn.repositoryBrowser" timestamp="1601030453084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="101" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1601030453084" />
+    <state x="588" y="85" key="svn4idea.import.options" timestamp="1601030034512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="85" key="svn4idea.import.options/0.0.1536.824@0.0.1536.824" timestamp="1601030034512" />
+  </component>
+</project>

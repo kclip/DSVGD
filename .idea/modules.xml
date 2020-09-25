@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../my_code/Stein-Variational-Gradient-Descent-master/.idea/Stein-Variational-Gradient-Descent-master.iml" filepath="$PROJECT_DIR$/../my_code/Stein-Variational-Gradient-Descent-master/.idea/Stein-Variational-Gradient-Descent-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/final_code.iml" filepath="$PROJECT_DIR$/.idea/final_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_code/.idea/my_code.iml" filepath="$PROJECT_DIR$/../my_code/.idea/my_code.iml" />
+    </modules>
+  </component>
+</project>
