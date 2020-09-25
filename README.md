@@ -15,7 +15,7 @@ with Bayesian Neural Networks and Multi-label classification with Bayesian Neura
 - Stochastic Gradient Langevin Dynamics (SGLD) [(Welling & Teh., 2011)](http://www.icml-2011.org/papers/398_icmlpaper.pdf).
 
 ## Toy Example: 1-D Mixture of Gaussians
-In the example below, green and orange dashed curves correspond to the local posterior at agents 1 and 2 scheduled during odd and even global iteration index *i* respectively. 
+In the animated figure below, we show DSVGD's operation with two agents. Green and orange dashed curves correspond to the local posterior at agents 1 and 2 scheduled during odd and even global iteration index *i* respectively. 
 The shaded area represents the optimal normalized 
 global posterior (obtained by normalizing the product of the two local posteriors) to be approximated at both agents. The blue solid line represents a Kernel Density Estimate
 over the particles of the scheduled agents after *L* local SVGD iterations. A uniform *U(-6, 6)* prior is used. Notice that at *i=1*, agent 1 obtains an approximation of its 
