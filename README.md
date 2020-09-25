@@ -21,8 +21,8 @@ with Bayesian Neural Networks and Multi-label classification with Bayesian Neura
 We use Numpy v1.18.1, PyTorch v1.3.1 and Theano v1.0.4 for the Bayesian Neural Networks experiments.
 
 ## Usage
-Each experiment folder contains one main .py file per algorithm. When executed, it prints the performance as function of the communication rounds. 
-Algorithms use general purpose functions in the Libray/general_functions.py file and experiment_name specific functions in the Library/experiment_name.py file.
+Each experiment folder contains one main .py file per algorithm. When executed, it prints the performance of the corresponding algorithm as function of the communication rounds. 
+Algorithms use general purpose functions in the ```Libray/general_functions.py``` file and experiment_name specific functions in the ``` Library/experiment_name.py``` file.
 
 ## Citation
 If you find this repository helpful, please consider citing [our paper](https://arxiv.org/pdf/2009.06419.pdf) using the following BibTeX entry:
