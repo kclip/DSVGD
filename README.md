@@ -10,7 +10,7 @@ This repository contains the code for the experiments of the paper:
  *Will be added soon.*
 
 ## Required Packages
- *Will be added soon.*
+We use Numpy v1.18.1, PyTorch v1.3.1 and Theano v1.0.4
 
 ## Usage
  *Will be added soon.*
