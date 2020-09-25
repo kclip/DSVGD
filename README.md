@@ -19,7 +19,7 @@ In the example below, green and orange dashed curves correspond to the local pos
 The shaded area represents the optimal normalized 
 global posterior (obtained by normalizing the product of the two local posteriors) to be approximated at both agents. The blue solid line represents a Kernel Density Estimate
 over the particles of the scheduled agents after *L* local SVGD iterations. A uniform *U(-6, 6)* prior is used. Notice that at *i=1*, agent 1 obtains an approximation of its 
-local posterior (green dashed line), while at *i=2*, agent 2 integrates the knowledge from agent's 1 approximation with its local posterior to obtain a two modes distribution.
+local posterior (green dashed line), while at *i=2*, agent 2 integrates the knowledge from agent's 1 approximation with its local posterior (orange dashed line) to obtain a two modes distribution.
 
 <img src="data/1Dtoygaussian.gif" width="40%">
 
