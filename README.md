@@ -18,7 +18,8 @@ with Bayesian Neural Networks and Multi-label classification with Bayesian Neura
 In the example below, green and orange dashed curves correspond to the local posterior at agents 1 and 2 scheduled during odd and even global iteration index *i* respectively. 
 The shaded area represents the optimal normalized 
 global posterior (obtained by normalizing the product of the two local posteriors) to be approximated at both agents. The blue solid line represents a Kernel Density Estimate
-over the particles of the scheduled agents after *L* local SVGD iterations. A uniform *U(-6, 6)* prior is used.
+over the particles of the scheduled agents after *L* local SVGD iterations. A uniform *U(-6, 6)* prior is used. Notice that at *i=1*, agent 1 obtains an approximation of its 
+local posterior while at *i=2*, agent 2 integrates the knowledge from agent's 1 approximation with its local posterior to obtain a bi-model distribution.
 
 <img src="data/1Dtoygaussian.gif" width="40%">
 
