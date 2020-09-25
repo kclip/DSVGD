@@ -4,7 +4,10 @@ Distributed Stein Variational Gradient Descent (DSVGD), is a non-parametric gene
 
 
 This repository contains the code for the experiments of the paper:
-[Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent](https://arxiv.org/pdf/2009.06419.pdf).
+[Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent](https://arxiv.org/pdf/2009.06419.pdf). We also include the code for different benchmarks used, namely:
+- Federated Averaging (FedAvg) [(McMahan et al., 2017)](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf).
+- Distributed Stochastic Gradient Langevin Dynamics (DSGLD) [(Ahn et al., 2014)](http://proceedings.mlr.press/v32/ahn14.pdf).
+- Stochastic Gradient Langevin Dynamics (SGLD) [(Welling & Teh., 2011)](http://www.icml-2011.org/papers/398_icmlpaper.pdf).
 
 ## Toy Example: 1-D Mixture of Gaussians
  *Will be added soon.*

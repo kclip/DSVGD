@@ -5,6 +5,11 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from torch.distributions.multivariate_normal import MultivariateNormal
 from Library.bayesian_logistic_regression import BayesianLR
+"""
+    Bayesian Logistic Regression using DSGLD (Ahn et al., 2014).
+    We use similar setting to Gershman et al., 2012.
+    We schedule one agent/client at a time for fairness with DSVGD.
+"""
 
 
 def d_sgld_RR(a_0, a, b, theta, d, N, nb_iter, nb_global, K, y, X, y_test, X_test, batchsize):

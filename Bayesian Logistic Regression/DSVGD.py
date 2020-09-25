@@ -6,7 +6,10 @@ from sklearn.model_selection import train_test_split
 from torch.distributions.multivariate_normal import MultivariateNormal
 from Library.bayesian_logistic_regression import BayesianLR
 from Library.general_functions import pairwise_distances, kde, svgd_kernel
-
+"""
+    Bayesian Logistic Regression using DSVGD (ours).
+    We use similar setting to Gershman et al., 2012.
+"""
 
 def agent_dsvgd(i, d, N, nb_svgd, nb_svgd_2, dlnprob, global_particles, local_particles):
     """

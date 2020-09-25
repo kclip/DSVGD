@@ -6,6 +6,11 @@ from sklearn.model_selection import train_test_split
 from torch.distributions.multivariate_normal import MultivariateNormal
 from Library.general_functions import sigmoid
 from Library.bayesian_logistic_regression import BayesianLR
+"""
+    Bayesian Logistic Regression using FedAvg (McMahan et al., 2017).
+    We use similar setting to Gershman et al., 2012.
+    We schedule one agent/client at a time for fairness with DSVGD.
+"""
 
 
 def fed_avg_client(alpha_ada, betta, epsilon_ada, theta, nb_iter, X, y, batchsize):

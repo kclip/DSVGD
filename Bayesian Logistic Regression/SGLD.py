@@ -5,6 +5,10 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from torch.distributions.multivariate_normal import MultivariateNormal
 from Library.bayesian_logistic_regression import BayesianLR
+"""
+    Bayesian Logistic Regression using SGLD (Welling & Teh, 2011).
+    We use similar setting to Gershman et al., 2012.
+"""
 
 
 def sgld(a_0, a, b, theta, N, nb_iter, y_train, X_train, y_test, X_test, batchsize):

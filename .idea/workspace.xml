@@ -27,14 +27,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rahif\OneDrive - King's College London\My papers\New RL paper\final_code\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SGLD">
+  <component name="RunManager" selected="Python.create_pickled">
     <configuration name="DSGLD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="final_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,10 +142,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_pickled" />
         <item itemvalue="Python.SGLD" />
         <item itemvalue="Python.SGLD (1)" />
         <item itemvalue="Python.FedAvg" />
-        <item itemvalue="Python.create_pickled" />
         <item itemvalue="Python.DSGLD" />
       </list>
     </recent_temporary>
@@ -180,6 +180,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="DSVGD final code" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601046120097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601046120097" />
     <state x="916" y="54" key="FileChooserDialogImpl" timestamp="1601031504326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,26 +196,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="204" width="470" height="306" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1601027266527" />
-    <state width="1515" height="173" key="GridCell.Tab.0.bottom" timestamp="1601031734515">
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom" timestamp="1601046109520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
-    <state width="1515" height="173" key="GridCell.Tab.0.center" timestamp="1601031734515">
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601046109520" />
+    <state width="1515" height="173" key="GridCell.Tab.0.center" timestamp="1601046109520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
-    <state width="1515" height="173" key="GridCell.Tab.0.left" timestamp="1601031734515">
+    <state width="1515" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601046109520" />
+    <state width="1515" height="173" key="GridCell.Tab.0.left" timestamp="1601046109520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
-    <state width="1515" height="173" key="GridCell.Tab.0.right" timestamp="1601031734515">
+    <state width="1515" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601046109520" />
+    <state width="1515" height="173" key="GridCell.Tab.0.right" timestamp="1601046109520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601031734515" />
-    <state x="242" y="109" key="SettingsEditor" timestamp="1601031497263">
+    <state width="1515" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601046109520" />
+    <state x="242" y="109" key="SettingsEditor" timestamp="1601044144283">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="242" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601031497263" />
+    <state x="242" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601044144283" />
     <state x="569" y="101" key="svn.repositoryBrowser" timestamp="1601030453084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
