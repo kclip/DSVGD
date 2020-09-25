@@ -15,7 +15,7 @@ with Bayesian Neural Networks and Multi-label classification with Bayesian Neura
 - Stochastic Gradient Langevin Dynamics (SGLD) [(Welling & Teh., 2011)](http://www.icml-2011.org/papers/398_icmlpaper.pdf).
 
 ## Toy Example: 1-D Mixture of Gaussians
- *Will be added soon.*
+<img src="data/1Dtoygaussian.gif" width="50%">
 
 ## Required Packages
 We use Numpy v1.18.1, PyTorch v1.3.1 and Theano v1.0.4 for the Bayesian Neural Networks experiments.
