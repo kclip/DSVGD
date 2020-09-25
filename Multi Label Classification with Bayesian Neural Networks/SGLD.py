@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
     ''' load data file '''
     # we use pickle for a faster import
-    # TODO: please run create_pickled.py file on your dataset of choice to obtain the .pkl binary file
+    # TODO: please run create_pickled.py file on your dataset of choice to obtain the .pkl binary file then sepcify its directory below
     with open("../data/pickled_mnist.pkl", "br") as fh:
         data = pickle.load(fh)
 
