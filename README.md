@@ -24,7 +24,7 @@ local posterior (green dashed line), while at *i=2*, agent 2 integrates the know
 <img src="data/1Dtoygaussian.gif" width="40%">
 
 ## Required Packages
-We use Numpy v1.18.1, PyTorch v1.3.1 and Theano v1.0.4 for the Bayesian Neural Networks experiments.
+We use [Numpy](https://numpy.org/install/) v1.18.1, [PyTorch](https://pytorch.org/get-started/locally/) v1.3.1 and [Theano](http://deeplearning.net/software/theano/install.html) v1.0.4 for the Bayesian Neural Networks experiments.
 
 ## Usage
 Each experiment folder contains one main .py file per algorithm. When executed, it prints the performance of the corresponding algorithm as function of the communication rounds. 
