@@ -13,6 +13,7 @@ with Bayesian Neural Networks and Multi-label classification with Bayesian Neura
 - Federated Averaging (FedAvg) [(McMahan et al., 2017)](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf).
 - Distributed Stochastic Gradient Langevin Dynamics (DSGLD) [(Ahn et al., 2014)](http://proceedings.mlr.press/v32/ahn14.pdf).
 - Stochastic Gradient Langevin Dynamics (SGLD) [(Welling & Teh., 2011)](http://www.icml-2011.org/papers/398_icmlpaper.pdf).
+Remaining benchmarks code urls can be found in their corresponding paper.
 
 ## Toy Example: 1-D Mixture of Gaussians
 In the animated figure below, we show DSVGD's operation with two agents. Green and orange dashed curves correspond to the local posterior at agents 1 and 2 scheduled during odd and even global iteration index *i* respectively. 
