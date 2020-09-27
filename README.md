@@ -7,8 +7,8 @@ By varying the number of particles, DSVGD enables a flexible trade-off between p
 DSVGD is shown to compare favorably to benchmark frequentist and Bayesian federated learning strategies while also providing well-calibrated, and hence trustworthy, predictions.
 
 
-This repository contains the code for the different experiments conducted in the paper:
-[Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent]<!--(https://arxiv.org/pdf/2009.06419.pdf)-->, namely, Bayesian Logistic Regression, Regression
+This repository contains the code for the different experiments conducted in the paper: 
+**Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent**<!--(https://arxiv.org/pdf/2009.06419.pdf)-->, namely, Bayesian Logistic Regression, Regression
 with Bayesian Neural Networks and Multi-label classification with Bayesian Neural Networks. We also include the code for different benchmarks used in each experiment, namely:
 - Federated Averaging (FedAvg) [(McMahan et al., 2017)](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf).
 - Distributed Stochastic Gradient Langevin Dynamics (DSGLD) [(Ahn et al., 2014)](http://proceedings.mlr.press/v32/ahn14.pdf).
