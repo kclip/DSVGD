@@ -32,3 +32,18 @@ We use [Numpy](https://numpy.org/install/) v1.18.1, [PyTorch](https://pytorch.or
 ## Usage
 Each experiment folder contains one main .py file per algorithm. When executed, it prints the performance of the corresponding algorithm as function of the communication rounds. 
 Algorithms use general purpose functions in the ```Libray/general_functions.py``` file and experiment_name specific functions in the ``` Library/experiment_name.py``` file.
+
+## Citation
+If you find this repository helpful, please consider citing [our paper](https://arxiv.org/pdf/2009.06419.pdf) using the following BibTeX entry:
+```
+@article{kassab2020federated,
+  title={Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent},
+  author={Kassab, Rahif and Simeone, Osvaldo},
+  journal={arXiv preprint arXiv:2009.06419},
+  year={2020}
+}
+```
+
+## Feedback
+If you have any questions, suggestions or would like to discuss or collaborate, feel free to [drop me an email](rahif.kassab@kcl.ac.uk).
+
